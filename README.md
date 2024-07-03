@@ -11,3 +11,6 @@ Currently in the submission stage, stay tuned!
 Our experiments are divided into seven sections, namely, detection performance, communication overhead analysis, scalability analysis, heterogeneity analysis, anomaly diagnosis, ablation experiments, and parameter sensitivity analysis. All the experiments are performed on 9 datasets. The detection performance is illustrated in the figure.
 
 ## Run
+Run it under the file Hyper_Fed.py:
+```
+    Hyper_Fed.py --alg Hyper --tsadalg itransformer --dataset smd
