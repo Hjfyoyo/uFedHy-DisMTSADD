@@ -13,4 +13,4 @@ Our experiments are divided into seven sections, namely, detection performance, 
 ## Run
 Run it under the file Hyper_Fed.py:
 ```
-    Hyper_Fed.py --alg Hyper --tsadalg itransformer --dataset psm
+    Hyper_Fed.py --alg Hyper --tsadalg SC Nor-transformer --dataset psm
