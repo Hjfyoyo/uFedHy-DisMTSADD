@@ -9,3 +9,6 @@ Currently in the submission stage, stay tuned!
 # Results
 ![image](https://github.com/Hjfyoyo/FedHySCN/assets/106068833/5dd3ded5-75fd-416c-b0f6-22e62eaf4907)
 Our experiments are divided into seven sections, namely, detection performance, communication overhead analysis, scalability analysis, heterogeneity analysis, anomaly diagnosis, ablation experiments, and parameter sensitivity analysis. All the experiments are performed on 9 datasets. The detection performance is illustrated in the figure.
+
+# Run
+At the command prompt, type `nano`.
