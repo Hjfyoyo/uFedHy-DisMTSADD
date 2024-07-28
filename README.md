@@ -1,6 +1,6 @@
 # uFedHy-DisMTSADD
 
-DESCRIPTION: This repository contains code and data for FedHySCN, an unsupervised multivariate time series anomaly detection and diagnosis algorithm based on federated hyernetworks.
+DESCRIPTION: This repository contains code and data for uFedHy-DisMTSADD, an unsupervised multivariate time series anomaly detection and diagnosis algorithm based on federated hyernetworks.
 
 ## Code
 
