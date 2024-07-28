@@ -1,4 +1,4 @@
-# FedHySCN
+# uFedHy-DisMTSADD
 
 DESCRIPTION: This repository contains code and data for FedHySCN, an unsupervised multivariate time series anomaly detection and diagnosis algorithm based on federated hyernetworks.
 
@@ -7,7 +7,7 @@ DESCRIPTION: This repository contains code and data for FedHySCN, an unsupervise
 Currently in the submission stage, stay tuned!
 
 ## Results
-![image](https://github.com/Hjfyoyo/FedHySCN/assets/106068833/5dd3ded5-75fd-416c-b0f6-22e62eaf4907)
+![image](https://github.com/user-attachments/assets/723cac2b-88ac-404a-a949-684ffb708559)
 Our experiments are divided into seven sections, namely, detection performance, communication overhead analysis, scalability analysis, heterogeneity analysis, anomaly diagnosis, ablation experiments, and parameter sensitivity analysis. All the experiments are performed on 9 datasets. The detection performance is illustrated in the figure.
 
 ## Run
