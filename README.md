@@ -4,7 +4,7 @@ DESCRIPTION: This repository contains code and data for uFedHy-DisMTSADD, an uns
 
 ## Code
 
-Currently in the submission stage, stay tuned!
+The article is under revision and the reviewers' recognition of the work is much appreciated!
 
 ## Results
 ![image](https://github.com/user-attachments/assets/723cac2b-88ac-404a-a949-684ffb708559)
