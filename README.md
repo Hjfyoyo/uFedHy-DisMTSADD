@@ -10,3 +10,16 @@ Our experiments are divided into seven sections, namely, detection performance, 
 Run it under the file Hyper_Fed.py:
 ```
     Hyper_Fed.py --alg Hyper --tsadalg itransformer --dataset smd
+
+## Cite：
+```
+@article{HAO2025104107,
+title = {Effectively detecting and diagnosing distributed multivariate time series anomalies via Unsupervised Federated Hypernetwork},
+journal = {Information Processing & Management},
+volume = {62},
+number = {4},
+pages = {104107},
+year = {2025},
+issn = {0306-4573},
+author = {Junfeng Hao and Peng Chen and Juan Chen and Xi Li},
+}
