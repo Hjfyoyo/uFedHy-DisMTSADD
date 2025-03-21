@@ -2,9 +2,7 @@
 
 DESCRIPTION: This repository contains code and data for uFedHy-DisMTSADD, an unsupervised multivariate time series anomaly detection and diagnosis algorithm based on federated hyernetworks.
 
-## Code
 
-The article is under revision and the reviewers' recognition of the work is much appreciated!
 
 ## Results
 ![image](https://github.com/user-attachments/assets/723cac2b-88ac-404a-a949-684ffb708559)
