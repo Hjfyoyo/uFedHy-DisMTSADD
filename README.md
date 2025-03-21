@@ -7,7 +7,7 @@ DESCRIPTION: This repository contains code and data for uFedHy-DisMTSADD, an uns
 Our experiments are divided into seven sections, namely, detection performance, communication overhead analysis, scalability analysis, heterogeneity analysis, anomaly diagnosis, ablation experiments, and parameter sensitivity analysis. All the experiments are performed on 9 datasets. The detection performance is illustrated in the figure.
 
 ## Cite
-
+```
 @article{HAO2025104107,
 title = {Effectively detecting and diagnosing distributed multivariate time series anomalies via Unsupervised Federated Hypernetwork},
 journal = {Information Processing & Management},
