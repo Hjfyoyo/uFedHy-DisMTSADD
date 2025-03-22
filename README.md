@@ -9,7 +9,7 @@ Our experiments are divided into seven sections, namely, detection performance, 
 ## Run
 Run it under the file Hyper_Fed.py:
 ```
-    Hyper_Fed.py --alg Hyper --tsadalg itransformer --dataset smd
+    Hyper_Fed.py --alg Hyper --tsadalg SCNortransformer --dataset smd
 ```
 
 ## Cite
